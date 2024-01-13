@@ -4,7 +4,7 @@ class AutoTest:
     def mi(self):
         print('token')
 
-    def huaweii12344556        print('huawei NO.1')
+    def huaweii1234455777777777777777777777777777777776        print('huawei NO.1')
 
 
 if __name__ == '__main__':
